@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T21:55:54Z",
+  "generated_at": "2026-03-20T23:00:52Z",
   "futures": [
     {
       "sym": "ES1!",
@@ -2762,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 70582.5156,
-      "d1": 0.96,
-      "w1": -3.03,
-      "hi52": -44.07,
-      "ytd": -20.45,
+      "price": 70799.3984,
+      "d1": 1.27,
+      "w1": -2.73,
+      "hi52": -43.9,
+      "ytd": -20.21,
       "spark": [
         2.85,
         -1.25,
         -3.62,
         -1.87,
-        0.96
+        1.27
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2780,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 2148.467,
-      "d1": 0.52,
-      "w1": -1.33,
-      "hi52": -56.63,
-      "ytd": -28.39,
+      "price": 2156.5569,
+      "d1": 0.9,
+      "w1": -0.96,
+      "hi52": -56.47,
+      "ytd": -28.12,
       "spark": [
         7.98,
         -1.41,
         -4.93,
         -3.01,
-        0.52
+        0.9
       ],
       "ema_uptrend": true,
       "id": "ethereum",
@@ -2798,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 89.6178,
-      "d1": 0.79,
-      "w1": -2.86,
-      "hi52": -64.61,
-      "ytd": -29.3,
+      "price": 90.1447,
+      "d1": 1.38,
+      "w1": -2.28,
+      "hi52": -64.4,
+      "ytd": -28.89,
       "spark": [
         4.31,
         -1.58,
         -4.9,
         -1.27,
-        0.79
+        1.38
       ],
       "ema_uptrend": true,
       "id": "solana",
@@ -2816,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.4426,
-      "d1": -0.33,
-      "w1": -0.35,
-      "hi52": -60.48,
-      "ytd": -23.18,
+      "price": 1.4486,
+      "d1": 0.09,
+      "w1": 0.07,
+      "hi52": -60.32,
+      "ytd": -22.86,
       "spark": [
         6.63,
         -1.62,
         -3.6,
         -1.13,
-        -0.33
+        0.09
       ],
       "ema_uptrend": true,
       "id": "ripple",
@@ -9561,7 +9561,7 @@
   },
   "breadth": {
     "fear_greed": {
-      "score": 17.2,
+      "score": 14.6,
       "rating": "Extreme Fear"
     },
     "naaim": {
@@ -9569,15 +9569,15 @@
       "date": "03/18/2026"
     },
     "advance_decline": {
-      "advancers": 212,
-      "decliners": 291
+      "advancers": 114,
+      "decliners": 389
     },
     "new_high_low": {
-      "new_highs": 24,
-      "new_lows": 35
+      "new_highs": 12,
+      "new_lows": 43
     },
-    "pct_above_sma20": 19.1,
-    "pct_above_sma50": 28.0,
-    "pct_above_sma200": 48.2
+    "pct_above_sma20": 12.9,
+    "pct_above_sma50": 20.1,
+    "pct_above_sma200": 45.2
   }
 }
