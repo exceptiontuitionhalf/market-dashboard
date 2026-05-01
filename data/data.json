@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T22:03:37Z",
+  "generated_at": "2026-05-01T22:53:45Z",
   "futures": [
     {
       "sym": "ES1!",
@@ -2762,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 78246.7969,
-      "d1": 2.55,
-      "w1": -0.52,
-      "hi52": -38.0,
-      "ytd": -11.82,
+      "price": 78183.8516,
+      "d1": 2.46,
+      "w1": -0.6,
+      "hi52": -38.05,
+      "ytd": -11.89,
       "spark": [
         -1.64,
         -1.31,
         -0.75,
         0.7,
-        2.55
+        2.46
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2780,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 2293.8601,
-      "d1": 1.67,
-      "w1": -3.2,
-      "hi52": -53.69,
-      "ytd": -23.55,
+      "price": 2293.1799,
+      "d1": 1.64,
+      "w1": -3.23,
+      "hi52": -53.71,
+      "ytd": -23.57,
       "spark": [
         -2.81,
         -0.59,
         -1.57,
         0.13,
-        1.67
+        1.64
       ],
       "ema_uptrend": true,
       "id": "ethereum",
@@ -2798,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 83.72,
-      "d1": 0.84,
-      "w1": -3.74,
-      "hi52": -66.94,
-      "ytd": -33.95,
+      "price": 83.67,
+      "d1": 0.78,
+      "w1": -3.79,
+      "hi52": -66.96,
+      "ytd": -33.99,
       "spark": [
         -2.48,
         -0.92,
         -1.2,
         -0.0,
-        0.84
+        0.78
       ],
       "ema_uptrend": false,
       "id": "solana",
@@ -2816,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.388,
-      "d1": 1.5,
-      "w1": -3.04,
-      "hi52": -61.97,
-      "ytd": -26.09,
+      "price": 1.3845,
+      "d1": 1.25,
+      "w1": -3.29,
+      "hi52": -62.07,
+      "ytd": -26.28,
       "spark": [
         -2.14,
         -1.44,
         -0.83,
         -0.13,
-        1.5
+        1.25
       ],
       "ema_uptrend": false,
       "id": "ripple",
@@ -4946,7 +4946,7 @@
         "w": 4.9
       },
       {
-        "s": "HIVE.V",
+        "s": "HIVE.TO",
         "n": "HIVE Digital Technologies Ltd",
         "w": 4.89
       },
@@ -9566,18 +9566,18 @@
     },
     "naaim": {
       "value": 94.2,
-      "date": "04/22/2026"
+      "date": "04/29/2026"
     },
     "advance_decline": {
-      "advancers": 379,
-      "decliners": 119
+      "advancers": 173,
+      "decliners": 328
     },
     "new_high_low": {
-      "new_highs": 69,
-      "new_lows": 20
+      "new_highs": 58,
+      "new_lows": 24
     },
-    "pct_above_sma20": 59.0,
-    "pct_above_sma50": 56.1,
-    "pct_above_sma200": 58.4
+    "pct_above_sma20": 55.9,
+    "pct_above_sma50": 55.1,
+    "pct_above_sma200": 58.2
   }
 }
