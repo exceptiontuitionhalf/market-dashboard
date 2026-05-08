@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T22:11:37Z",
+  "generated_at": "2026-05-08T22:59:23Z",
   "futures": [
     {
       "sym": "ES1!",
@@ -2762,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 80339.1797,
-      "d1": 0.41,
-      "w1": 2.29,
-      "hi52": -36.34,
-      "ytd": -9.46,
+      "price": 80278.2422,
+      "d1": 0.34,
+      "w1": 2.22,
+      "hi52": -36.39,
+      "ytd": -9.53,
       "spark": [
         1.64,
         1.38,
         0.62,
         -1.74,
-        0.41
+        0.34
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2780,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 2316.51,
-      "d1": 1.11,
-      "w1": -0.22,
-      "hi52": -53.24,
-      "ytd": -22.79,
+      "price": 2310.8799,
+      "d1": 0.86,
+      "w1": -0.46,
+      "hi52": -53.35,
+      "ytd": -22.98,
       "spark": [
         1.07,
         0.63,
         -0.44,
         -2.54,
-        1.11
+        0.86
       ],
       "ema_uptrend": true,
       "id": "ethereum",
@@ -2798,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 92.55,
-      "d1": 4.69,
-      "w1": 10.31,
-      "hi52": -63.45,
-      "ytd": -26.99,
+      "price": 92.3,
+      "d1": 4.41,
+      "w1": 10.01,
+      "hi52": -63.55,
+      "ytd": -27.19,
       "spark": [
         0.23,
         2.65,
         3.27,
         -0.83,
-        4.69
+        4.41
       ],
       "ema_uptrend": true,
       "id": "solana",
@@ -2816,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.4224,
-      "d1": 2.54,
-      "w1": 2.51,
-      "hi52": -61.03,
-      "ytd": -24.26,
+      "price": 1.4185,
+      "d1": 2.26,
+      "w1": 2.23,
+      "hi52": -61.14,
+      "ytd": -24.46,
       "spark": [
         0.32,
         1.52,
         0.82,
         -2.64,
-        2.54
+        2.26
       ],
       "ema_uptrend": true,
       "id": "ripple",
@@ -5559,7 +5559,7 @@
       {
         "s": "BISXX",
         "n": "BlackRock Cash Funds Instl SL Agency",
-        "w": 2.64
+        "w": 2.66
       }
     ],
     "XHS": [
@@ -9047,32 +9047,32 @@
       {
         "s": "ASML.AS",
         "n": "ASML Holding NV",
-        "w": 2.48
+        "w": 2.54
       },
       {
         "s": "HSBA.L",
         "n": "HSBC Holdings PLC",
-        "w": 1.44
+        "w": 1.45
       },
       {
         "s": "AZN.L",
         "n": "AstraZeneca PLC",
-        "w": 1.36
+        "w": 1.34
       },
       {
         "s": "ROP.SW",
         "n": "Roche Holding AG Ordinary Shares new",
-        "w": 1.33
+        "w": 1.32
       },
       {
         "s": "NOVN.SW",
         "n": "Novartis AG Registered Shares",
-        "w": 1.29
+        "w": 1.28
       },
       {
         "s": "NESN.SW",
         "n": "Nestle SA",
-        "w": 1.22
+        "w": 1.21
       },
       {
         "s": "SHEL.L",
@@ -9082,12 +9082,12 @@
       {
         "s": "SIE.DE",
         "n": "Siemens AG",
-        "w": 1.04
+        "w": 1.03
       },
       {
         "s": "CBA.AX",
         "n": "Commonwealth Bank of Australia",
-        "w": 0.98
+        "w": 0.96
       },
       {
         "s": "8306.T",
@@ -9566,7 +9566,7 @@
   },
   "breadth": {
     "fear_greed": {
-      "score": 67.6,
+      "score": 66.9,
       "rating": "Greed"
     },
     "naaim": {
@@ -9574,15 +9574,15 @@
       "date": "05/06/2026"
     },
     "advance_decline": {
-      "advancers": 176,
-      "decliners": 327
+      "advancers": 208,
+      "decliners": 295
     },
     "new_high_low": {
-      "new_highs": 18,
-      "new_lows": 15
+      "new_highs": 44,
+      "new_lows": 38
     },
-    "pct_above_sma20": 44.9,
-    "pct_above_sma50": 53.3,
-    "pct_above_sma200": 57.0
+    "pct_above_sma20": 42.7,
+    "pct_above_sma50": 52.1,
+    "pct_above_sma200": 55.6
   }
 }
