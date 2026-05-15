@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:28:25Z",
+  "generated_at": "2026-05-15T22:58:36Z",
   "futures": [
     {
       "sym": "ES1!",
@@ -2762,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 78989.8125,
-      "d1": -2.54,
-      "w1": -3.83,
-      "hi52": -37.41,
-      "ytd": -10.98,
+      "price": 79067.7891,
+      "d1": -2.45,
+      "w1": -3.74,
+      "hi52": -37.35,
+      "ytd": -10.89,
       "spark": [
         -0.5,
         -1.53,
         -1.49,
         2.24,
-        -2.54
+        -2.45
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2780,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 2218.8201,
-      "d1": -2.72,
-      "w1": -6.34,
-      "hi52": -55.21,
-      "ytd": -26.05,
+      "price": 2222.55,
+      "d1": -2.56,
+      "w1": -6.18,
+      "hi52": -55.13,
+      "ytd": -25.92,
       "spark": [
         -1.25,
         -2.77,
         -0.75,
         1.03,
-        -2.72
+        -2.56
       ],
       "ema_uptrend": false,
       "id": "ethereum",
@@ -2798,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 89.13,
-      "d1": -3.28,
-      "w1": -7.57,
-      "hi52": -64.8,
-      "ytd": -29.69,
+      "price": 89.27,
+      "d1": -3.12,
+      "w1": -7.42,
+      "hi52": -64.74,
+      "ytd": -29.58,
       "spark": [
         0.96,
         -3.15,
         -3.39,
         1.17,
-        -3.28
+        -3.12
       ],
       "ema_uptrend": true,
       "id": "solana",
@@ -2816,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.4305,
-      "d1": -3.61,
-      "w1": -2.87,
-      "hi52": -60.81,
-      "ytd": -23.83,
+      "price": 1.4335,
+      "d1": -3.41,
+      "w1": -2.67,
+      "hi52": -60.73,
+      "ytd": -23.67,
       "spark": [
         0.27,
         -2.76,
         -0.68,
         4.05,
-        -3.61
+        -3.41
       ],
       "ema_uptrend": true,
       "id": "ripple",
@@ -6755,12 +6755,12 @@
       {
         "s": "MUR",
         "n": "Murphy Oil Corp",
-        "w": 2.92
+        "w": 2.93
       },
       {
         "s": "SM",
         "n": "SM Energy Co",
-        "w": 2.88
+        "w": 2.89
       },
       {
         "s": "DINO",
@@ -6795,7 +6795,7 @@
       {
         "s": "VNOM",
         "n": "Viper Energy Inc Ordinary Shares - Class A",
-        "w": 2.68
+        "w": 2.69
       }
     ],
     "BUZZ": [
@@ -9566,7 +9566,7 @@
   },
   "breadth": {
     "fear_greed": {
-      "score": 66.1,
+      "score": 62.9,
       "rating": "Greed"
     },
     "naaim": {
@@ -9574,15 +9574,15 @@
       "date": "05/13/2026"
     },
     "advance_decline": {
-      "advancers": 297,
-      "decliners": 205
+      "advancers": 141,
+      "decliners": 360
     },
     "new_high_low": {
-      "new_highs": 59,
-      "new_lows": 37
+      "new_highs": 25,
+      "new_lows": 46
     },
-    "pct_above_sma20": 41.4,
-    "pct_above_sma50": 47.1,
-    "pct_above_sma200": 55.4
+    "pct_above_sma20": 35.4,
+    "pct_above_sma50": 44.7,
+    "pct_above_sma200": 52.4
   }
 }
