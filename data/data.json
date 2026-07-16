@@ -1,67 +1,67 @@
 {
-  "generated_at": "2026-07-16T22:14:53Z",
+  "generated_at": "2026-07-16T23:00:06Z",
   "futures": [
     {
       "sym": "ES1!",
-      "price": 7572.75,
-      "d1": -0.55,
-      "w1": -0.21,
-      "hi52": -0.78,
-      "ytd": 9.74,
+      "price": 7565.5,
+      "d1": -0.65,
+      "w1": -0.31,
+      "hi52": -0.87,
+      "ytd": 9.64,
       "spark": [
         0.42,
         -0.75,
         0.37,
         0.31,
-        -0.55
+        -0.65
       ],
       "ema_uptrend": true
     },
     {
       "sym": "NQ1!",
-      "price": 29208.0,
-      "d1": -1.63,
-      "w1": -2.44,
-      "hi52": -5.68,
-      "ytd": 15.06,
+      "price": 29129.25,
+      "d1": -1.9,
+      "w1": -2.7,
+      "hi52": -5.94,
+      "ytd": 14.75,
       "spark": [
         0.32,
         -1.85,
         1.07,
         -0.33,
-        -1.63
+        -1.9
       ],
       "ema_uptrend": false
     },
     {
       "sym": "RTY1!",
-      "price": 2992.2,
-      "d1": 0.01,
-      "w1": -0.54,
-      "hi52": -2.48,
-      "ytd": 18.62,
+      "price": 2989.8,
+      "d1": -0.07,
+      "w1": -0.62,
+      "hi52": -2.56,
+      "ytd": 18.53,
       "spark": [
         -0.48,
         -0.79,
         0.32,
         0.4,
-        0.01
+        -0.07
       ],
       "ema_uptrend": true
     },
     {
       "sym": "YM1!",
-      "price": 52761.0,
-      "d1": -0.26,
-      "w1": 0.0,
-      "hi52": -1.67,
-      "ytd": 8.53,
+      "price": 52735.0,
+      "d1": -0.31,
+      "w1": -0.05,
+      "hi52": -1.72,
+      "ytd": 8.47,
       "spark": [
         0.27,
         -0.27,
         0.05,
         0.21,
-        -0.26
+        -0.31
       ],
       "ema_uptrend": true
     }
@@ -70,81 +70,81 @@
   "metals": [
     {
       "sym": "GC1!",
-      "price": 3981.7,
-      "d1": -1.54,
-      "w1": -3.6,
-      "hi52": -28.72,
-      "ytd": -7.71,
+      "price": 3977.7,
+      "d1": -1.64,
+      "w1": -3.7,
+      "hi52": -28.79,
+      "ytd": -7.8,
       "spark": [
         -0.64,
         -2.61,
         1.6,
         -0.42,
-        -1.54
+        -1.64
       ],
       "ema_uptrend": false
     },
     {
       "sym": "SI1!",
-      "price": 55.85,
-      "d1": -2.21,
-      "w1": -7.5,
-      "hi52": -53.96,
-      "ytd": -20.84,
+      "price": 55.74,
+      "d1": -2.4,
+      "w1": -7.68,
+      "hi52": -54.05,
+      "ytd": -21.0,
       "spark": [
         -0.94,
         -3.64,
         1.97,
         -2.83,
-        -2.21
+        -2.4
       ],
       "ema_uptrend": false
     },
     {
       "sym": "HG1!",
-      "price": 6.292,
-      "d1": -0.02,
-      "w1": 1.24,
-      "hi52": -5.42,
-      "ytd": 11.56,
+      "price": 6.2855,
+      "d1": -0.13,
+      "w1": 1.13,
+      "hi52": -5.52,
+      "ytd": 11.45,
       "spark": [
         0.3,
         -0.01,
         1.56,
         -0.58,
-        -0.02
+        -0.13
       ],
       "ema_uptrend": true
     },
     {
       "sym": "PL1!",
-      "price": 1632.7,
-      "d1": 0.07,
-      "w1": 0.86,
-      "hi52": -42.76,
-      "ytd": -23.19,
+      "price": 1625.5,
+      "d1": -0.37,
+      "w1": 0.41,
+      "hi52": -43.01,
+      "ytd": -23.53,
       "spark": [
         -0.04,
         -0.98,
         1.83,
         0.0,
-        0.07
+        -0.37
       ],
       "ema_uptrend": false
     },
     {
       "sym": "PA1!",
-      "price": 1257.5,
-      "d1": -2.0,
-      "w1": 1.09,
-      "hi52": -42.05,
-      "ytd": -24.61,
+      "price": 1255.5,
+      "d1": -2.16,
+      "w1": 0.93,
+      "hi52": -42.14,
+      "ytd": -24.73,
       "spark": [
         1.8,
         -1.86,
         4.5,
         -1.19,
-        -2.0
+        -2.16
       ],
       "ema_uptrend": false
     }
@@ -152,17 +152,17 @@
   "commod": [
     {
       "sym": "CL1!",
-      "price": 78.9,
-      "d1": -0.88,
-      "w1": 9.46,
-      "hi52": -33.96,
-      "ytd": 37.65,
+      "price": 79.0,
+      "d1": -0.75,
+      "w1": 9.6,
+      "hi52": -33.88,
+      "ytd": 37.82,
       "spark": [
         -0.93,
         9.42,
         1.54,
         0.33,
-        -0.88
+        -0.75
       ],
       "ema_uptrend": false
     },
@@ -316,17 +316,17 @@
     },
     {
       "sym": "^FTSE",
-      "price": 10572.2402,
-      "d1": 0.54,
-      "w1": 0.95,
-      "hi52": -3.32,
-      "ytd": 6.24,
+      "price": 10515.9004,
+      "d1": -0.13,
+      "w1": 0.26,
+      "hi52": -3.83,
+      "ytd": 5.68,
       "spark": [
+        -0.16,
         0.24,
         0.01,
         0.3,
-        -0.13,
-        0.54
+        -0.13
       ],
       "ema_uptrend": true
     },
@@ -2762,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 64135.1914,
-      "d1": -0.89,
-      "w1": 0.52,
-      "hi52": -49.18,
-      "ytd": -27.72,
+      "price": 63906.2305,
+      "d1": -1.25,
+      "w1": 0.16,
+      "hi52": -49.36,
+      "ytd": -27.98,
       "spark": [
         -0.07,
         -2.38,
         4.37,
         -0.38,
-        -0.89
+        -1.25
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2780,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 1878.37,
-      "d1": -2.01,
-      "w1": 5.05,
-      "hi52": -62.08,
-      "ytd": -37.4,
+      "price": 1867.23,
+      "d1": -2.59,
+      "w1": 4.43,
+      "hi52": -62.31,
+      "ytd": -37.77,
       "spark": [
         0.99,
         -1.79,
         6.54,
         1.45,
-        -2.01
+        -2.59
       ],
       "ema_uptrend": true,
       "id": "ethereum",
@@ -2798,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 75.91,
-      "d1": -1.75,
-      "w1": -1.19,
-      "hi52": -70.02,
-      "ytd": -40.12,
+      "price": 75.27,
+      "d1": -2.58,
+      "w1": -2.02,
+      "hi52": -70.27,
+      "ytd": -40.62,
       "spark": [
         0.06,
         -2.62,
         3.88,
         -0.64,
-        -1.75
+        -2.58
       ],
       "ema_uptrend": true,
       "id": "solana",
@@ -2816,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.0971,
-      "d1": -1.41,
-      "w1": -0.04,
-      "hi52": -69.94,
-      "ytd": -41.58,
+      "price": 1.0895,
+      "d1": -2.09,
+      "w1": -0.74,
+      "hi52": -70.15,
+      "ytd": -41.98,
       "spark": [
         -1.08,
         -1.87,
         4.28,
         0.15,
-        -1.41
+        -2.09
       ],
       "ema_uptrend": false,
       "id": "ripple",
@@ -3358,156 +3358,156 @@
       {
         "s": "NVDA",
         "n": "NVIDIA Corp",
-        "w": 13.39
+        "w": 13.22
       },
       {
         "s": "AAPL",
         "n": "Apple Inc",
-        "w": 12.46
+        "w": 12.12
       },
       {
         "s": "MSFT",
         "n": "Microsoft Corp",
-        "w": 8.82
+        "w": 7.48
       },
       {
         "s": "GOOGL",
         "n": "Alphabet Inc Class A",
-        "w": 5.87
-      },
-      {
-        "s": "AVGO",
-        "n": "Broadcom Inc",
-        "w": 5.11
-      },
-      {
-        "s": "AMZN",
-        "n": "Amazon.com Inc",
-        "w": 4.8
+        "w": 5.89
       },
       {
         "s": "GOOG",
         "n": "Alphabet Inc Class C",
-        "w": 4.61
+        "w": 4.64
       },
       {
-        "s": "TSLA",
-        "n": "Tesla Inc",
-        "w": 3.94
+        "s": "AMZN",
+        "n": "Amazon.com Inc",
+        "w": 4.44
+      },
+      {
+        "s": "AVGO",
+        "n": "Broadcom Inc",
+        "w": 4.26
       },
       {
         "s": "META",
         "n": "Meta Platforms Inc Class A",
-        "w": 3.71
+        "w": 4.06
+      },
+      {
+        "s": "TSLA",
+        "n": "Tesla Inc",
+        "w": 3.91
       },
       {
         "s": "LLY",
         "n": "Eli Lilly and Co",
-        "w": 3.07
+        "w": 3.39
       }
     ],
     "VUG": [
       {
         "s": "NVDA",
         "n": "NVIDIA Corp",
-        "w": 13.1
+        "w": 12.59
       },
       {
         "s": "AAPL",
         "n": "Apple Inc",
-        "w": 12.31
+        "w": 11.64
       },
       {
         "s": "MSFT",
         "n": "Microsoft Corp",
-        "w": 8.99
+        "w": 7.59
       },
       {
         "s": "GOOGL",
         "n": "Alphabet Inc Class A",
-        "w": 5.95
-      },
-      {
-        "s": "AVGO",
-        "n": "Broadcom Inc",
-        "w": 5.16
-      },
-      {
-        "s": "AMZN",
-        "n": "Amazon.com Inc",
-        "w": 4.85
+        "w": 5.74
       },
       {
         "s": "GOOG",
         "n": "Alphabet Inc Class C",
-        "w": 4.68
+        "w": 4.52
+      },
+      {
+        "s": "AMZN",
+        "n": "Amazon.com Inc",
+        "w": 4.46
+      },
+      {
+        "s": "AVGO",
+        "n": "Broadcom Inc",
+        "w": 4.27
       },
       {
         "s": "META",
         "n": "Meta Platforms Inc Class A",
-        "w": 3.73
+        "w": 3.4
       },
       {
         "s": "TSLA",
         "n": "Tesla Inc",
-        "w": 3.31
+        "w": 3.26
       },
       {
         "s": "LLY",
         "n": "Eli Lilly and Co",
-        "w": 2.53
+        "w": 2.8
       }
     ],
     "VTV": [
       {
         "s": "MU",
         "n": "Micron Technology Inc",
-        "w": 4.15
+        "w": 4.85
       },
       {
         "s": "JPM",
         "n": "JPMorgan Chase & Co",
-        "w": 2.87
+        "w": 3.04
       },
       {
         "s": "BRK-B",
         "n": "Berkshire Hathaway Inc Class B",
-        "w": 2.81
-      },
-      {
-        "s": "XOM",
-        "n": "Exxon Mobil Corp",
-        "w": 2.3
+        "w": 2.93
       },
       {
         "s": "JNJ",
         "n": "Johnson & Johnson",
-        "w": 2.06
+        "w": 2.28
+      },
+      {
+        "s": "XOM",
+        "n": "ExxonMobil Holdings Corp",
+        "w": 2.11
       },
       {
         "s": "WMT",
         "n": "Walmart Inc",
-        "w": 1.93
-      },
-      {
-        "s": "INTC",
-        "n": "Intel Corp",
-        "w": 1.74
-      },
-      {
-        "s": "CSCO",
-        "n": "Cisco Systems Inc",
-        "w": 1.63
+        "w": 1.85
       },
       {
         "s": "CAT",
         "n": "Caterpillar Inc",
-        "w": 1.55
+        "w": 1.83
       },
       {
         "s": "ABBV",
         "n": "AbbVie Inc",
-        "w": 1.46
+        "w": 1.66
+      },
+      {
+        "s": "CSCO",
+        "n": "Cisco Systems Inc",
+        "w": 1.55
+      },
+      {
+        "s": "UNH",
+        "n": "UnitedHealth Group Inc",
+        "w": 1.41
       }
     ],
     "XLK": [
@@ -6263,7 +6263,7 @@
       {
         "s": "MOG-A",
         "n": "Moog Inc Class A",
-        "w": 2.85
+        "w": 2.86
       },
       {
         "s": "TDG",
@@ -7738,7 +7738,7 @@
       {
         "s": "WBS",
         "n": "Webster Financial Corp",
-        "w": 1.35
+        "w": 1.34
       }
     ],
     "IGV": [
@@ -9571,23 +9571,23 @@
   },
   "breadth": {
     "fear_greed": {
-      "score": 46.3,
-      "rating": "Neutral"
+      "score": 41.7,
+      "rating": "Fear"
     },
     "naaim": {
-      "value": 83.0,
-      "date": "07/08/2026"
+      "value": 95.6,
+      "date": "07/15/2026"
     },
     "advance_decline": {
-      "advancers": 257,
-      "decliners": 246
+      "advancers": 370,
+      "decliners": 132
     },
     "new_high_low": {
-      "new_highs": 38,
-      "new_lows": 10
+      "new_highs": 70,
+      "new_lows": 1
     },
-    "pct_above_sma20": 52.7,
-    "pct_above_sma50": 62.3,
-    "pct_above_sma200": 67.2
+    "pct_above_sma20": 64.8,
+    "pct_above_sma50": 67.7,
+    "pct_above_sma200": 71.0
   }
 }
