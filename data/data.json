@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:45:57Z",
+  "generated_at": "2026-08-21T22:28:20Z",
   "futures": [
     {
       "sym": "ES1!",
@@ -332,33 +332,33 @@
     },
     {
       "sym": "^FCHI",
-      "price": 8484.4297,
-      "d1": 0.37,
-      "w1": -1.76,
-      "hi52": -3.09,
-      "ytd": 3.53,
+      "price": 8453.0898,
+      "d1": -0.57,
+      "w1": -2.28,
+      "hi52": -3.45,
+      "ytd": 3.15,
       "spark": [
+        -0.16,
         -0.66,
         -0.82,
         -0.09,
-        -0.57,
-        0.37
+        -0.57
       ],
       "ema_uptrend": true
     },
     {
       "sym": "^GDAXI",
-      "price": 26136.5605,
-      "d1": 0.59,
-      "w1": -1.15,
-      "hi52": -1.64,
-      "ytd": 6.51,
+      "price": 25983.0391,
+      "d1": -0.42,
+      "w1": -1.2,
+      "hi52": -2.22,
+      "ytd": 5.88,
       "spark": [
+        0.53,
         -0.38,
         -0.8,
         -0.14,
-        -0.42,
-        0.59
+        -0.42
       ],
       "ema_uptrend": true
     }
@@ -2762,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 78326.0703,
-      "d1": 7.25,
-      "w1": 24.69,
-      "hi52": -37.93,
-      "ytd": -11.73,
+      "price": 78511.2031,
+      "d1": 7.5,
+      "w1": 24.98,
+      "hi52": -37.79,
+      "ytd": -11.52,
       "spark": [
         2.69,
         0.27,
         7.09,
         5.44,
-        7.25
+        7.5
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2780,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 2489.95,
-      "d1": 7.03,
-      "w1": 32.87,
-      "hi52": -49.74,
-      "ytd": -17.01,
+      "price": 2532.0701,
+      "d1": 8.84,
+      "w1": 35.12,
+      "hi52": -48.89,
+      "ytd": -15.61,
       "spark": [
         2.04,
         0.22,
         17.48,
         3.33,
-        7.03
+        8.84
       ],
       "ema_uptrend": true,
       "id": "ethereum",
@@ -2798,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 93.11,
-      "d1": 6.25,
-      "w1": 24.91,
-      "hi52": -63.23,
-      "ytd": -26.55,
+      "price": 94.13,
+      "d1": 7.41,
+      "w1": 26.28,
+      "hi52": -62.83,
+      "ytd": -25.74,
       "spark": [
         1.88,
         1.43,
         10.83,
         2.65,
-        6.25
+        7.41
       ],
       "ema_uptrend": true,
       "id": "solana",
@@ -2816,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.4049,
-      "d1": 10.76,
-      "w1": 41.63,
-      "hi52": -55.87,
-      "ytd": -25.19,
+      "price": 1.434,
+      "d1": 13.05,
+      "w1": 44.56,
+      "hi52": -54.95,
+      "ytd": -23.64,
       "spark": [
         1.07,
         -0.13,
         10.29,
         14.85,
-        10.76
+        13.05
       ],
       "ema_uptrend": true,
       "id": "ripple",
@@ -7114,52 +7114,52 @@
       {
         "s": "TSLA",
         "n": "Tesla Inc",
-        "w": 9.43
-      },
-      {
-        "s": "SPCX",
-        "n": "Space Exploration Technologies Corp Class A",
-        "w": 4.92
+        "w": 9.72
       },
       {
         "s": "TEM",
         "n": "Tempus AI Inc Class A common stock",
-        "w": 4.82
+        "w": 4.88
+      },
+      {
+        "s": "SPCX",
+        "n": "Space Exploration Technologies Corp Class A",
+        "w": 4.87
       },
       {
         "s": "CRSP",
         "n": "CRISPR Therapeutics AG",
-        "w": 4.66
-      },
-      {
-        "s": "COIN",
-        "n": "Coinbase Global Inc Ordinary Shares - Class A",
-        "w": 4.55
+        "w": 4.73
       },
       {
         "s": "SHOP",
         "n": "Shopify Inc Registered Shs -A- Subord Vtg",
-        "w": 4.54
+        "w": 4.35
+      },
+      {
+        "s": "COIN",
+        "n": "Coinbase Global Inc Ordinary Shares - Class A",
+        "w": 4.16
       },
       {
         "s": "AMD",
         "n": "Advanced Micro Devices Inc",
-        "w": 3.96
+        "w": 3.98
       },
       {
         "s": "CRCL",
         "n": "Circle Internet Group Inc Ordinary Shares - Class A",
-        "w": 3.82
+        "w": 3.9
       },
       {
         "s": "HOOD",
         "n": "Robinhood Markets Inc Class A",
-        "w": 3.55
+        "w": 3.63
       },
       {
-        "s": "TXG",
-        "n": "10x Genomics Inc Ordinary Shares - Class A",
-        "w": 3.44
+        "s": "TWST",
+        "n": "Twist Bioscience Corp",
+        "w": 3.3
       }
     ],
     "XRT": [
@@ -9576,20 +9576,20 @@
   },
   "breadth": {
     "fear_greed": {
-      "score": 52.5,
-      "rating": "Neutral"
+      "score": 55.2,
+      "rating": "Greed"
     },
     "naaim": null,
     "advance_decline": {
-      "advancers": 157,
-      "decliners": 342
+      "advancers": 332,
+      "decliners": 169
     },
     "new_high_low": {
-      "new_highs": 22,
-      "new_lows": 8
+      "new_highs": 39,
+      "new_lows": 7
     },
-    "pct_above_sma20": 45.5,
-    "pct_above_sma50": 54.6,
-    "pct_above_sma200": 73.1
+    "pct_above_sma20": 50.1,
+    "pct_above_sma50": 58.0,
+    "pct_above_sma200": 72.5
   }
 }
