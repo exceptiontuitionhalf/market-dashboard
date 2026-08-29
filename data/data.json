@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T23:11:51Z",
+  "generated_at": "2026-08-29T03:34:25Z",
   "futures": [
     {
       "sym": "ES1!",
@@ -281,6 +281,22 @@
         1.13
       ],
       "ema_uptrend": true
+    },
+    {
+      "sym": "000300.SS",
+      "price": 4529.1001,
+      "d1": -3.6,
+      "w1": -5.26,
+      "hi52": -10.57,
+      "ytd": -4.0,
+      "spark": [
+        -1.79,
+        2.15,
+        -0.2,
+        -1.85,
+        -3.6
+      ],
+      "ema_uptrend": false
     },
     {
       "sym": "^HSI",
@@ -2746,17 +2762,17 @@
   "crypto": [
     {
       "sym": "BTC",
-      "price": 77704.8984,
-      "d1": -3.18,
-      "w1": -0.06,
-      "hi52": -38.43,
-      "ytd": -12.43,
+      "price": 77637.1016,
+      "d1": -3.27,
+      "w1": -0.15,
+      "hi52": -38.48,
+      "ytd": -12.5,
       "spark": [
         1.56,
         -0.51,
         0.59,
         1.56,
-        -3.18
+        -3.27
       ],
       "ema_uptrend": true,
       "id": "bitcoin",
@@ -2764,17 +2780,17 @@
     },
     {
       "sym": "ETH",
-      "price": 2439.8101,
-      "d1": -2.81,
-      "w1": -0.97,
-      "hi52": -48.78,
-      "ytd": -18.68,
+      "price": 2439.1201,
+      "d1": -2.84,
+      "w1": -1.0,
+      "hi52": -48.79,
+      "ytd": -18.71,
       "spark": [
         0.73,
         -1.56,
         2.58,
         0.17,
-        -2.81
+        -2.84
       ],
       "ema_uptrend": true,
       "id": "ethereum",
@@ -2782,17 +2798,17 @@
     },
     {
       "sym": "SOL",
-      "price": 104.18,
-      "d1": -4.6,
-      "w1": 9.16,
-      "hi52": -58.86,
-      "ytd": -17.81,
+      "price": 104.02,
+      "d1": -4.75,
+      "w1": 8.99,
+      "hi52": -58.92,
+      "ytd": -17.94,
       "spark": [
         3.27,
         -1.99,
         5.76,
         6.89,
-        -4.6
+        -4.75
       ],
       "ema_uptrend": true,
       "id": "solana",
@@ -2800,17 +2816,17 @@
     },
     {
       "sym": "XRP",
-      "price": 1.3828,
-      "d1": -4.83,
-      "w1": -9.16,
-      "hi52": -56.56,
-      "ytd": -26.37,
+      "price": 1.382,
+      "d1": -4.89,
+      "w1": -9.21,
+      "hi52": -56.59,
+      "ytd": -26.41,
       "spark": [
         -2.83,
         -3.1,
         -0.75,
         2.15,
-        -4.83
+        -4.89
       ],
       "ema_uptrend": true,
       "id": "ripple",
@@ -9560,20 +9576,20 @@
   },
   "breadth": {
     "fear_greed": {
-      "score": 57.9,
-      "rating": "Greed"
+      "score": 54.4,
+      "rating": "Neutral"
     },
     "naaim": null,
     "advance_decline": {
-      "advancers": 152,
-      "decliners": 349
+      "advancers": 229,
+      "decliners": 273
     },
     "new_high_low": {
-      "new_highs": 27,
-      "new_lows": 12
+      "new_highs": 22,
+      "new_lows": 8
     },
-    "pct_above_sma20": 44.9,
-    "pct_above_sma50": 53.9,
-    "pct_above_sma200": 70.7
+    "pct_above_sma20": 43.1,
+    "pct_above_sma50": 53.5,
+    "pct_above_sma200": 71.5
   }
 }
